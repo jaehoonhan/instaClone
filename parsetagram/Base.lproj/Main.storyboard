@@ -84,7 +84,7 @@
         <!--Feed View Controller-->
         <scene sceneID="bYh-dg-Tzj">
             <objects>
-                <viewController id="yb1-DE-xNl" customClass="FeedViewController" customModule="parsetagram" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="yb1-DE-xNl" customClass="FeedViewController" customModule="parsetagram" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Way-6S-30n">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
